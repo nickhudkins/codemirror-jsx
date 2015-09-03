@@ -1,0 +1,24 @@
+{
+  "name": "codemirror-jsx",
+  "version": "1.0.0",
+  "description": "JSX Mode for CodeMirror",
+  "main": "jsx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickhudkins/codemirror-jsx.git"
+  },
+  "keywords": [
+    "codemirror",
+    "jsx",
+    "react"
+  ],
+  "author": "Kevin Kwok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickhudkins/codemirror-jsx/issues"
+  },
+  "homepage": "https://github.com/nickhudkins/codemirror-jsx#readme"
+}
